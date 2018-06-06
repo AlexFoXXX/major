@@ -12,10 +12,10 @@ int ena = D7; // connect pin 12 to dir D7
 int D8in = D8; // connect pin 12 to dir D8 
 int a = 0; // gen counter 
 
-//const char* ssid = "novacom"; 
-//const char* password = "1234569871qaz"; 
-const char* ssid = "HOME12test"; 
-const char* password = "home1234567890"; 
+//const char* ssid = "1111"; 
+//const char* password = "123456"; 
+const char* ssid = "2222"; 
+const char* password = "2222222"; 
 int stepdelay=10; 
 boolean x = false; 
 
