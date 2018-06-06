@@ -10,10 +10,10 @@ int valtest;
 int pinDHT11 = D4;
 int stepdelay=50; ////////////////////////steper test
 
-//const char* ssid = "novacom"; 
-//const char* password = "1234569871qaz"; 
-const char* ssid = "HOME12test"; 
-const char* password = "home1234567890"; 
+//const char* ssid = "111"; 
+//const char* password = "123456"; 
+const char* ssid = "2222"; 
+const char* password = "222222"; 
 
 boolean x = false; 
 
